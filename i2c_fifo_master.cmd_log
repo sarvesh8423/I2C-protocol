@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj I2C -o "C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C/i2c_fifo_master.tfi" -lib work "C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C//i2c_fifi_master.v" -module i2c_fifo_master -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

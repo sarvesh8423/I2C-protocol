@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C/xst"
+elaborate
+-ifn step1.prj
+-ifmt mixed

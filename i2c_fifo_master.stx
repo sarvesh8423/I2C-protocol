@@ -1,0 +1,35 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "step3.v" in library work
+Compiling verilog file "ipcore_dir/i2c_fif0.v" in library work
+Module <step3> compiled
+Compiling verilog file "i2c_fifi_master.v" in library work
+Module <i2c_fif0> compiled
+ERROR:HDLCompilers:28 - "i2c_fifi_master.v" line 46 'fifo_master_start' has not been declared
+Module <i2c_fifo_master> compiled
+Analysis of file <"i2c_fifo_master.prj"> failed.
+--> 
+
+Total memory usage is 4489832 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

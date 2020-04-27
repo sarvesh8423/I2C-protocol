@@ -1,0 +1,17 @@
+
+
+
+// Instantiate the module
+i2c_fifo_master instance_name (
+    .clk_in(clk_in), 
+    .reset_in(reset_in), 
+    .addr_in(addr_in), 
+    .data_in(data_in), 
+    .i2c_sda_inout(i2c_sda_inout), 
+    .i2c_sck_inout(i2c_sck_inout), 
+    .ready_out(ready_out), 
+    .fifo_full(fifo_full), 
+    .start(start)
+    );
+
+

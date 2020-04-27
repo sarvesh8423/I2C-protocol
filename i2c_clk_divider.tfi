@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+i2c_clk_divider instance_name (
+    .reset(reset), 
+    .ref_clk(ref_clk), 
+    .i2c_clk(i2c_clk)
+    );
+
+
