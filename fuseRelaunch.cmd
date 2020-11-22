@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C/test_step3_isim_beh.exe" -prj "C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C/test_step3_beh.prj" "work.test_step3" "work.glbl" 
