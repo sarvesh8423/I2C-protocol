@@ -1,5 +1,0 @@
-xst -intstyle ise -ifn "C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C/step2.xst" -ofn "C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C/step2.syr" 
-ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc4vfx12-sf363-12 "step2.ngc" step2.ngd  
-map -intstyle ise -p xc4vfx12-sf363-12 -global_opt off -cm area -ir off -pr off -c 100 -o step2_map.ncd step2.ngd step2.pcf 
-par -w -intstyle ise -ol high -t 1 step2_map.ncd step2.ncd step2.pcf 
-trce -intstyle ise -v 3 -s 12 -n 3 -fastpaths -xml step2.twx step2.ncd -o step2.twr step2.pcf 
