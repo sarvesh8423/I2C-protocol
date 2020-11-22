@@ -1,1 +1,0 @@
-vhdtdtfi -lang verilog -prj I2C -o "C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C/i2c_clk_divider.tfi" -lib work "C:/Users/sworl/Desktop/Verilog/I2C protocol/I2C//i2c_clk_divider.v" -module i2c_clk_divider -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
