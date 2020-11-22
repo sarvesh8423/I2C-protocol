@@ -1,3 +1,0 @@
-verilog work "step3.v"
-verilog work "ipcore_dir/i2c_fif0.v"
-verilog work "i2c_fifi_master.v"
